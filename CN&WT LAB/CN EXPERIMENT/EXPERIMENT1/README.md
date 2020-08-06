@@ -4,7 +4,7 @@
 
 ## Aim of experiment
 
-![a](Screenshot (229).png)
+![output](Screenshot (229).png)
 
 
 
